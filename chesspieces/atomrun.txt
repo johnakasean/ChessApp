@@ -1,0 +1,6 @@
+cd OneDrive\Documents\ChessProject	
+					-find folder
+javac ChessProject.java			
+					-compile
+java ChessProject			
+					-run
